@@ -38,7 +38,7 @@ inlighn-tech-website/
 
 ## 🌐 Live Demo
 
-🔗 **[View Live Website](https://inlighn.netlify.app/)**  
+🔗 **[View Live Website](https://inlighn-tech-leap.vercel.app/)**  
 
 ---
 
